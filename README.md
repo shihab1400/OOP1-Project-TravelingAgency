@@ -1,9 +1,9 @@
 Wanderlust Adventures
 
-Description
+Description:
 This is a simple management system for a travelling agency. 
 
-Features
+Features:
 We added some cool features in this project. Like,
 1. Dark mode 
 2. Feedback system 
@@ -12,10 +12,10 @@ We added some cool features in this project. Like,
 5. Rating system 
 6. Viewing the feedbacks from users and so on.
 
-Installation
+Installation:
 Just download all the files as zip then extract them and run the start file.
 
-Contribution
+Contribution:
 1. Md. Farhat Anjam
 	- Dark Theme
 	- Feedback(Read & Write)
@@ -33,6 +33,6 @@ Contribution
 4. Quazi Saad
 	- Domestic Places
 
-Contact
+Contact:
 Facebook - https://www.facebook.com/profile.php?id=100081337193100
 Email - shihabcoc39@gmail.com
